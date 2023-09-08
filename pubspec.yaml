@@ -6,8 +6,8 @@ issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+
 version: 2.1.1
 
 environment:
-  sdk: ">=2.19.0 <4.0.0"
-  flutter: ">=3.7.0"
+  sdk: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"
 
 flutter:
   plugin:
@@ -28,17 +28,22 @@ dependencies:
     sdk: flutter
   path_provider_android:
     git: https://github.com/kumsumit/path_provider_android.git
-  path_provider_foundation: ^2.3.0
-  path_provider_linux: ^2.2.0
-  path_provider_platform_interface: ^2.1.0
-  path_provider_windows: ^2.2.0
+  path_provider_foundation:
+    git: https://github.com/kumsumit/path_provider_foundation.git
+  path_provider_linux: 
+    git: https://github.com/kumsumit/path_provider_linux.git
+  path_provider_platform_interface: 
+    git: https://github.com/kumsumit/path_provider_platform_interface.git
+  path_provider_windows: 
+    git: https://github.com/kumsumit/path_provider_windows.git
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   integration_test:
     sdk: flutter
-  plugin_platform_interface: ^2.0.0
+  plugin_platform_interface: 
+    git: https://github.com/kumsumit/plugin_platform_interface.git
   test: ^1.16.0
 
 topics:
