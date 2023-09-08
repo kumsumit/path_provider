@@ -1,7 +1,7 @@
 # This is a generated file; do not edit or check into version control.
 integration_test=/home/sumit/softwares/flutter/packages/integration_test/
 path_provider=/home/sumit/StudioProjects/packages/packages/path_provider/path_provider/
-path_provider_android=/home/sumit/.pub-cache/git/path_provider_android-09ad28ae80ea1f782cecb92da6f85bde45017e90/
-path_provider_foundation=/home/sumit/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/
-path_provider_linux=/home/sumit/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
-path_provider_windows=/home/sumit/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1/
+path_provider_android=/home/sumit/.pub-cache/git/path_provider_android-e2f766fe5ae3f378b2335786cbc9d77fb1921a55/
+path_provider_foundation=/home/sumit/.pub-cache/git/path_provider_foundation-d03469b9c2e33ae3766e3b211fa51688e8fd3b35/
+path_provider_linux=/home/sumit/.pub-cache/git/path_provider_linux-b8224d82f726a802061c8b97484073fd42c031d4/
+path_provider_windows=/home/sumit/.pub-cache/git/path_provider_windows-ed44a91bd80fef05cbb4de655f62bc2cd12a6108/

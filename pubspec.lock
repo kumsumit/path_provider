@@ -255,41 +255,45 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "09ad28ae80ea1f782cecb92da6f85bde45017e90"
+      resolved-ref: e2f766fe5ae3f378b2335786cbc9d77fb1921a55
       url: "https://github.com/kumsumit/path_provider_android.git"
     source: git
     version: "2.2.0"
   path_provider_foundation:
     dependency: "direct main"
     description:
-      name: path_provider_foundation
-      sha256: "19314d595120f82aca0ba62787d58dde2cc6b5df7d2f0daf72489e38d1b57f2d"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: d03469b9c2e33ae3766e3b211fa51688e8fd3b35
+      url: "https://github.com/kumsumit/path_provider_foundation.git"
+    source: git
     version: "2.3.1"
   path_provider_linux:
     dependency: "direct main"
     description:
-      name: path_provider_linux
-      sha256: f7a1fe3a634fe7734c8d3f2766ad746ae2a2884abe22e241a8b301bf5cac3279
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: b8224d82f726a802061c8b97484073fd42c031d4
+      url: "https://github.com/kumsumit/path_provider_linux.git"
+    source: git
     version: "2.2.1"
   path_provider_platform_interface:
     dependency: "direct main"
     description:
-      name: path_provider_platform_interface
-      sha256: "94b1e0dd80970c1ce43d5d4e050a9918fce4f4a775e6142424c30a29a363265c"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "651bf928de545c4bd4903d8a9515c22602874856"
+      url: "https://github.com/kumsumit/path_provider_platform_interface.git"
+    source: git
     version: "2.1.1"
   path_provider_windows:
     dependency: "direct main"
     description:
-      name: path_provider_windows
-      sha256: "8bc9f22eee8690981c22aa7fc602f5c85b497a6fb2ceb35ee5a5e5ed85ad8170"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: ed44a91bd80fef05cbb4de655f62bc2cd12a6108
+      url: "https://github.com/kumsumit/path_provider_windows.git"
+    source: git
     version: "2.2.1"
   platform:
     dependency: transitive
@@ -302,10 +306,11 @@ packages:
   plugin_platform_interface:
     dependency: "direct dev"
     description:
-      name: plugin_platform_interface
-      sha256: da3fdfeccc4d4ff2da8f8c556704c08f912542c5fb3cf2233ed75372384a034d
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "1d6e1c5fae93958d50ce0595ef687d8195088d21"
+      url: "https://github.com/kumsumit/plugin_platform_interface.git"
+    source: git
     version: "2.1.6"
   pool:
     dependency: transitive
@@ -531,10 +536,11 @@ packages:
   xdg_directories:
     dependency: transitive
     description:
-      name: xdg_directories
-      sha256: "589ada45ba9e39405c198fe34eb0f607cddb2108527e658136120892beac46d2"
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "410932cf9651a439aa3e2c2f21098cc61e6daa8a"
+      url: "https://github.com/kumsumit/xdg_directories.git"
+    source: git
     version: "1.0.3"
   yaml:
     dependency: transitive
@@ -545,5 +551,5 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=3.1.0-185.0.dev <4.0.0"
-  flutter: ">=3.7.0"
+  dart: ">=3.1.0 <4.0.0"
+  flutter: ">=3.13.0"
