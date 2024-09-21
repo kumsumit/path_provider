@@ -3,7 +3,7 @@ publish_to: none
 description: Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
 repository: https://github.com/flutter/packages/tree/main/packages/path_provider/path_provider
 issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+path_provider%22
-version: 2.1.2
+version: 2.1.4
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
@@ -36,7 +36,7 @@ dependencies:
     git: https://github.com/kumsumit/path_provider_platform_interface.git
   path_provider_windows: 
     git: https://github.com/kumsumit/path_provider_windows.git
-
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
