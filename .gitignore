@@ -1,0 +1,78 @@
+# Flutter-specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# IDE and Editor-specific
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Generated files
+build/
+*.g.dart
+
+# macOS
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/ephemeral/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/Flutter.podspec
+
+# Android
+.android/
+local.properties
+
+# Windows
+windows/ephemeral/
+
+# Linux
+linux/ephemeral/
+
+# Web
+web/ephemeral/
+
+# Rust (if using flutter_rust_bridge)
+**/target/
+**/Cargo.lock
+
+# Kotlin
+**/build/
+
+# Swift
+**/.swiftpm/
+**/Package.resolved
+
+# Other
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.lock
+*.bak
+*.orig
+
+# Flutter Plugin Artifacts
+plugin_symlinks/
+
+# Git
+.git/
+*.orig
+
+# Example
+example/build/
+example/android/build/
+example/.dart_tool/
+example/.flutter-plugins
+example/.flutter-plugins-dependencies
+example/.packages
+example/pubspec.lock
