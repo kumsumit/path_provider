@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/home/sumit/softwares/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/sumit/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/sumit/StudioProjects/packages/packages/path_provider/path_provider/example/android/app/.cxx/Debug/b4d6w4m4/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/sumit/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/sumit/StudioProjects/packages/packages/path_provider/path_provider/example/android/app/.cxx/Debug/b4d6w4m4/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/home/sumit/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/home/sumit/Android/Sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
