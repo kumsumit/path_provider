@@ -1,0 +1,17 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml:2:3-44
+		INJECTED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml
+INJECTED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sumit/.pub-cache/git/path_provider_android-42b4464e373af6d38925c7852a73f476287b1434/android/src/main/AndroidManifest.xml
